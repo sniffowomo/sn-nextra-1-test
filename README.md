@@ -22,3 +22,4 @@ https://vercel.com/templates/next.js/documentation-starter-kit
 N | Descr
 |:--:|:--:|
 `w1` | 1st Attempt 
+
