@@ -3,7 +3,6 @@
 
 ----
 1. [W ?](#w-)
-2. [Branches](#branches)
 
 ----
 
@@ -15,5 +14,4 @@ Testing of [`Nextra Doc Starter Kit`](https://vercel.com/templates/next.js/docum
 https://vercel.com/templates/next.js/documentation-starter-kit
 ```
 - Uses next js for a nice documentation site which you want to use since its more modern and relying on the nextjs framework
-
 
