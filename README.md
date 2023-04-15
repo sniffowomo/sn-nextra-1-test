@@ -1,5 +1,5 @@
 <h1 align="center"><code> 🌐 SN-NEXTRA-1-TEST </code></h1>
-<h2 align="center"><i> Nextra Site Testing  </i></h2>
+<h2 align="center"><i> W1 - Branch - 1st Try  </i></h2>
 
 ----
 1. [W ?](#w-)
@@ -17,7 +17,3 @@ https://vercel.com/templates/next.js/documentation-starter-kit
 - Uses next js for a nice documentation site which you want to use since its more modern and relying on the nextjs framework
 
 
-# Branches 
-
-N | Descr
-|:--:|:--:|
