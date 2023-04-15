@@ -3,6 +3,8 @@
 
 ----
 1. [W ?](#w-)
+2. [Nextra](#nextra)
+   1. [Main Site](#main-site)
 
 ----
 
@@ -14,4 +16,21 @@ Testing of [`Nextra Doc Starter Kit`](https://vercel.com/templates/next.js/docum
 https://vercel.com/templates/next.js/documentation-starter-kit
 ```
 - Uses next js for a nice documentation site which you want to use since its more modern and relying on the nextjs framework
+
+# Nextra 
+
+## Main Site 
+
+```sh 
+https://vercel.com/templates/next.js/documentation-starter-kit
+```
+[`Manual`](https://vercel.com/templates/next.js/documentation-starter-kit) 
+
+
+
+
+
+
+
+
 
