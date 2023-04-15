@@ -5,6 +5,10 @@
 1. [W ?](#w-)
 2. [Nextra](#nextra)
    1. [Main Site](#main-site)
+      1. [Nextra Main Documentation](#nextra-main-documentation)
+      2. [Vercel Site](#vercel-site)
+   2. [Commands](#commands)
+      1. [Installation](#installation)
 
 ----
 
@@ -21,11 +25,28 @@ https://vercel.com/templates/next.js/documentation-starter-kit
 
 ## Main Site 
 
+### Nextra Main Documentation 
+
+```ml
+https://nextra.site
+```
+- Main manual 
+
+### Vercel Site 
+
 ```sh 
 https://vercel.com/templates/next.js/documentation-starter-kit
 ```
 [`Manual`](https://vercel.com/templates/next.js/documentation-starter-kit) 
+- Main manual site 
 
+## Commands
+
+### Installation 
+
+```sh 
+pnpm i next react react-dom nextra nextra-theme-docs
+```
 
 
 
