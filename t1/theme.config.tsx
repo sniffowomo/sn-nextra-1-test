@@ -13,6 +13,7 @@ const config: DocsThemeConfig = {
   footer: {
     text: 'SnifferLickus',
   },
+  primaryHue: { dark: 156, light: 114 }
 }
 
 export default config
