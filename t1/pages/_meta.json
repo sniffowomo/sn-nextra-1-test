@@ -2,6 +2,7 @@
   "index": "Introduction",
   "another": "Another Page",
   "advanced": "Advanced (A Folder)",
+  "doogi": "WhatWhatWhat",
   "about": {
     "title": "About",
     "type": "page"
@@ -11,5 +12,9 @@
     "type": "page",
     "href": "https://twitter.com/sniffowomo",
     "newWindow": true
+  },
+  "Hotact": {
+    "title": "Ergaday",
+    "type": "page"
   }
 }
